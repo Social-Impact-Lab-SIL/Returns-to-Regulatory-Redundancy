@@ -1,5 +1,5 @@
 # The Returns to Regulatory Redundancy: Evidence from Tobacco 21
-
+**Authors:** Christian Saenz, James Flynn, Mike Pesko
 **Status:** Under Review  
 **Maintainer:** Christian Saenz, Post Doctoral Scholar, Yale University 
 **Last Updated:** May 2026
