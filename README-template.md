@@ -12,10 +12,10 @@
 We consider the impact of state laws that prohibit conduct already barred under federal law. In particular, we examine the effectiveness of state minimum legal sales laws for tobacco, or tobacco 21 laws, implemented after the federal T21 law in December 2019. Using difference-in-differences modeling that exploits the staggered implementation of tobacco 21 legislation (T21) in 28 states after 2019, we find that these state T21 laws consistently have little to no effect on smoking and vaping among adults ages 18 to 20, nor for high school youth. Our findings indicate that state T21 laws offer little marginal benefit under a unified federal T21 regime. We discuss voluntary compliance as a likely explanation for these findings.
 
 ## Repository Structure
-├── data/           # Raw and processed data (not committed — see .gitignore)
-├── code/           # Analysis scripts
-├── figures/        # Tables, figures, and results
-├── manuscript/     # Notes, meeting summaries, documentation
+├── data/           # Raw and processed data (not committed — see .gitignore)  
+├── code/           # Analysis scripts  
+├── figures/        # Tables, figures, and results  
+├── manuscript/     # Notes, meeting summaries, documentation  
 └── README.md
 
 ## Requirements
